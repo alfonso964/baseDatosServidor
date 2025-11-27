@@ -1,0 +1,47 @@
+{
+  "alumnos": [
+    {
+      "id": "1",
+      "nombre": "Juan Pérez",
+      "localidad": "Madrid",
+      "fechaNacimiento": "2005-03-15",
+      "createdAt": "2024-01-15T10:00:00.000Z"
+    },
+    {
+      "nombre": "María García",
+      "localidad": "Barcelona",
+      "fechaNacimiento": "2005-07-22",
+      "id": "2"
+    }
+  ],
+  "profesores": [
+    {
+      "id": "1",
+      "nombre": "Ana Martínez",
+      "especialidad": "Matemáticas",
+      "estadoCivil": "Casada",
+      "createdAt": "2024-01-15T10:00:00.000Z"
+    },
+    {
+      "id": "2",
+      "nombre": "Pedro Sánchez",
+      "especialidad": "Lengua",
+      "estadoCivil": "Soltero",
+      "createdAt": "2024-01-15T10:00:00.000Z"
+    },
+    {
+      "id": "4540",
+      "nombre": "fdsfds",
+      "especialidad": "adsadas",
+      "estadoCivil": "casado",
+      "createdAt": "2025-11-24T11:32:15.624Z"
+    },
+    {
+      "id": "0eb0",
+      "nombre": "fefwfew",
+      "especialidad": "dwdwew",
+      "estadoCivil": "casado",
+      "createdAt": "2025-11-27T15:24:50.693Z"
+    }
+  ]
+}
